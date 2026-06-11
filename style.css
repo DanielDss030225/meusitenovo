@@ -359,7 +359,7 @@ button, input, select, textarea {
     min-height: 650px;
     display: flex;
     align-items: center;
-    background-image: url('assets/hero_bg.png');
+    background-image: url('hero_bg.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
